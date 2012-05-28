@@ -1,0 +1,32 @@
+body {
+    padding-top:20px;
+    font-face: "arial";
+}
+
+h1 { 
+
+  font-family: 'Annie Use Your Telescope', cursive;
+  font-weight: 1000; 
+  color: #000; 
+}
+
+p {
+  font-family: 'Annie Use Your Telescope', cursive;
+  font-weight: 800; 
+  color: #000; 
+
+}
+
+#container {
+  margin: 0 auto;  
+  width: 900px;	   
+}
+#header {
+
+}
+
+#content {
+ clear: left;
+ padding: 20px;
+}
+
