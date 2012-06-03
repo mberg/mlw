@@ -1,15 +1,23 @@
 body {
     padding-top:5px;
-    font-face: "arial";
+
 }
 
 h1 { 
-
   font-family: 'Annie Use Your Telescope', cursive;
   font-weight: 500;
   font-size: 40px; 
   color: #000; 
 }
+
+h3 { 
+  font-family: 'Annie Use Your Telescope', cursive;
+  font-weight: 500;
+  font-size: 30px; 
+  color: #000; 
+}
+
+
 
 p {
   font-family: 'Annie Use Your Telescope', cursive;
@@ -19,10 +27,12 @@ p {
 }
 
 #container {
+
+  font-size: 16px;
   margin: 0 auto;  
   width: 900px;	   
   font-weight: 400;
-  font-family: arial;
+
 }
 #header {
 
@@ -31,5 +41,7 @@ p {
 #content {
  clear: left;
  padding: 20px;
+ font-family: "georgia","arial";
+
 }
 
