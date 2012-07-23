@@ -19,8 +19,9 @@ color:#00c;
 }
 
 i {
-	color: #999;
+	color: #fff;
 	font-size: 16px;
+	
 }
 
 a:active {
@@ -72,6 +73,15 @@ font-size:inherit;
 
 .g-doc,.g-doc-1024,.g-doc-800 {
 font-size:130%;
+}
+
+
+.rsvp-form {
+  padding: 15px;
+  
+  background-image:url('../img/blue-grunge.png');
+
+	
 }
 
 .ss-base-body {
@@ -294,3 +304,7 @@ color:#c43b1d;
 display:block;
 padding:0.5em 0 .5em;
 }
+
+
+
+
