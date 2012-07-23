@@ -5,7 +5,8 @@ padding:0;
 }
 
 body {
-font-family: 'Annie Use Your Telescope', cursive;
+
+font-family: 'Karla', sans-serif;
 font-size: 18px;
 color:#000;
 background:#fff;
@@ -19,7 +20,7 @@ color:#00c;
 
 i {
 	color: #999;
-	
+	font-size: 16px;
 }
 
 a:active {
@@ -274,7 +275,7 @@ padding:2px;
 }
 
 p,h1,h2,h3,h4,h5 {
-padding:0 0 1em;
+padding:0 0 0.3em;
 }
 
 .g,.ss-powered-by a:link,.ss-powered-by a:visited {
