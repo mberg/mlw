@@ -4,30 +4,30 @@ body {
 }
 
 h1 { 
-  font-family: 'Annie Use Your Telescope', cursive;
+  font-family: 'Londrina Solid', cursive;
   font-weight: 500;
-  font-size: 36px; 
-  color: #000; 
+  font-size: 30px; 
+  color: red; 
 }
 
 h3 { 
-  font-family: 'Annie Use Your Telescope', cursive;
+  font-family: 'Londrina Solid', cursive;
   font-weight: 500;
-  font-size: 30px; 
-  color: #000; 
+  font-size: 24px; 
+  color: green; 
 }
 
 
 
 p {
-  font-family: 'Annie Use Your Telescope', cursive;
-  font-size: 28px;
+
+
   color: #000; 
 
 }
 
 #container {
-
+  font-family: 'Londrina Solid', cursive;
   font-size: 16px;
   margin: 0 auto;  
   width: 900px;	   
@@ -40,8 +40,8 @@ p {
 
 #content {
  clear: left;
- padding: 20px;
- font-family: "georgia","arial";
+  font-size: 16px;
+  font-family: 'Bitter', cursive;
 
 }
 
